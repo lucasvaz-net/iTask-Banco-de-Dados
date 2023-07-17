@@ -1,0 +1,1 @@
+CREATE TABLE [dbo].[LogTarefas] ([id] int NOT NULL, [tarefa_id] int, [data_registro] datetime, [descricao] text);
